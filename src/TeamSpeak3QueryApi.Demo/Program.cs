@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using TeamSpeak3QueryApi.Net.Specialized;
 using TeamSpeak3QueryApi.Net.Specialized.Notifications;
 
-namespace TeamSpeak3QueryApi.Net.Demo
+namespace TeamSpeak3QueryApi.Demo
 {
     class Program
     {
